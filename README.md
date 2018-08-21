@@ -16,4 +16,5 @@ issueにはテンプレートを使用しています。
 <br>
 <br>
 早速バグ報告 -> https://github.com/sagaekeiga/push-request-bug/issues/new
+
 他のバグ報告を見てみる -> https://github.com/sagaekeiga/push-request-bug/issues
